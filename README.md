@@ -137,4 +137,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 By following this README overview, users and contributors will have a clear understanding of what the Advanced Password Strength Checker Tool does, how to install and use it, and potential ways to enhance its capabilities further. This overview should be comprehensive enough to guide users through everything they need to know about the project.
 
-Feel free to customize this README file further with additional details specific to your project setup, development guidelines, or specific acknowledgments.
+
