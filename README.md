@@ -92,7 +92,8 @@ The application is straightforward to use, with a simple graphical user interfac
 
 Here’s an example of how the tool provides feedback and visual representation:
 
-![Password Strength Example](example_pie_chart.png)
+![Screenshot_2024-07-24_19_14_38](https://github.com/user-attachments/assets/652c6075-cfd1-4489-9964-1681287aff3d)
+
 
 ```plaintext
 Score: 75
