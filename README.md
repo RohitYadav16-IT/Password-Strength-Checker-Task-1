@@ -126,9 +126,6 @@ This project can be extended with additional features, including:
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes. You can also open issues for any bugs or feature requests.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgements
 
