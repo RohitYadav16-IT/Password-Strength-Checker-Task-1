@@ -1,4 +1,5 @@
-Overview
+Overview 
+
 The Advanced Password Strength Checker Tool is a sophisticated application developed using Python and Tkinter, designed to analyze and enhance the strength of passwords. The tool provides a robust mechanism for evaluating password security by considering various factors such as length, complexity, uniqueness, and resistance to common attacks. Additionally, it offers features for password generation and immediate feedback on password strength, making it a valuable asset for users concerned with maintaining strong, secure passwords.
 
 Key Features
