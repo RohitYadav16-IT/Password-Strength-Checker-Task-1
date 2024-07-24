@@ -93,6 +93,12 @@ The application is straightforward to use, with a simple graphical user interfac
 Here’s an example of how the tool provides feedback and visual representation:
 
 ![Screenshot_2024-07-24_19_14_38](https://github.com/user-attachments/assets/652c6075-cfd1-4489-9964-1681287aff3d)
+![Screenshot_2024-07-24_19_14_53](https://github.com/user-attachments/assets/662fb60f-0ac1-4110-89e1-5b23163b7c6a)
+![Screenshot_2024-07-24_19_15_03](https://github.com/user-attachments/assets/eb797975-9c61-4aca-bc28-97dcab7e1e30)
+![Screenshot_2024-07-24_19_15_10](https://github.com/user-attachments/assets/c99f6069-bdb8-4831-af5d-10d4cd1ff0ec)
+
+
+
 
 
 ```plaintext
